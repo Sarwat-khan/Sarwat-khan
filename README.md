@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋, I'amm Sarwat Khan</h1>
+<h1 align="center">Hello! 👋, I'am Sarwat Khan</h1>
 <h3 align="center">Innovative Developer with Expertise in Web and Android Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/dopFZQOlSQSE0ir2Dm"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarwat-khan&label=Profile%20views&color=0e75b6&style=flat" alt="sarwat-khan" /> </p>
