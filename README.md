@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/dopFZQOlSQSE0ir2Dm"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarwat-khan&label=Profile%20views&color=0e75b6&style=flat" alt="sarwat-khan" /> </p>
 
-- 🌱 I’m currently learning **Android development/kotlin**
+- 🌱 I’m  **Computer Science Student**
 
-- 💬 Ask me about **C,HTML, CSS, JAVASCRIPT,JAVA, TAILWIND,**
+- 💬 Ask me about **C,HTML, TAILWIND,CSS, JAVASCRIPT,JAVA**
 
 - 📫 How to reach me **Sarwatkhan2003@gmail.com**
 
